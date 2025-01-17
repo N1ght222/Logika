@@ -35,7 +35,7 @@ __HEART__ = '''
 
 class Valentine:
     def __init__(self, name):
-        self.loved_one = name
+        self.loved_one = Liza
 
     def romanticize(self):
         you_in_my_heart = __HEART__
